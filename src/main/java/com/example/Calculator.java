@@ -9,8 +9,8 @@ public class Calculator {
     public static void main(String[] args) {
 
         // Calculator values
-        double num1 = 20;
-        double num2 = 5;
+        double num1 = 30;
+        double num2 = 10;
 
         // Calculations
         double addition = num1 + num2;
